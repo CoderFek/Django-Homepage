@@ -1,3 +1,3 @@
 # Django-Homepage
 
-A simple Django homepage rendered using `function-based-views` and `class-based-views`
+A simple Django homepage and about page rendered using `function-based-views` and `class-based-views`
